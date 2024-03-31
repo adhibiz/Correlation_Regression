@@ -1,5 +1,5 @@
-                                                                 NAME:PRIYANGHA
-                                                                 REGNO:212223040157
+                                                                 NAME:HEMAPRIYA
+                                                                 REGNO:212223040066
 
 # EX:3 Correlation and regression for data analysis
 # Aim : 
